@@ -690,11 +690,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\kamanchi\\source\\repos\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+      "projectUniqueName": "C:\\Users\\kamanchi\\source\\repos\\HelloWorld\\learning\\HelloWorld\\HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "C:\\Users\\kamanchi\\source\\repos\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+      "projectPath": "C:\\Users\\kamanchi\\source\\repos\\HelloWorld\\learning\\HelloWorld\\HelloWorld.csproj",
       "packagesPath": "C:\\Users\\kamanchi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kamanchi\\source\\repos\\HelloWorld\\HelloWorld\\obj\\",
+      "outputPath": "C:\\Users\\kamanchi\\source\\repos\\HelloWorld\\learning\\HelloWorld\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

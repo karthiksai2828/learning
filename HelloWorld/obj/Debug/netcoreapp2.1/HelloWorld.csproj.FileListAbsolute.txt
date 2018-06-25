@@ -9,3 +9,14 @@ c:\users\kamanchi\source\repos\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\Hel
 c:\users\kamanchi\source\repos\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.AssemblyInfo.cs
 c:\users\kamanchi\source\repos\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.dll
 c:\users\kamanchi\source\repos\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.pdb
+C:\Users\kamanchi\source\repos\HelloWorld\learning\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.deps.json
+C:\Users\kamanchi\source\repos\HelloWorld\learning\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.runtimeconfig.json
+C:\Users\kamanchi\source\repos\HelloWorld\learning\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.runtimeconfig.dev.json
+C:\Users\kamanchi\source\repos\HelloWorld\learning\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.dll
+C:\Users\kamanchi\source\repos\HelloWorld\learning\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.pdb
+C:\Users\kamanchi\source\repos\HelloWorld\learning\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\kamanchi\source\repos\HelloWorld\learning\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\kamanchi\source\repos\HelloWorld\learning\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\kamanchi\source\repos\HelloWorld\learning\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.AssemblyInfo.cs
+C:\Users\kamanchi\source\repos\HelloWorld\learning\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.dll
+C:\Users\kamanchi\source\repos\HelloWorld\learning\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.pdb
